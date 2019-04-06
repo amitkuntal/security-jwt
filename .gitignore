@@ -27,3 +27,5 @@ jwt_test_plan.jmx
 jmeter.log
 
 target/
+
+.settings/
